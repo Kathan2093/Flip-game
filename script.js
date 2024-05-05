@@ -41,7 +41,7 @@ function flipCard(card) {
           alert("Restart The Game");
           initializeGame();
         } else {
-          alert("you have " + chance + " left");
+          alert("you have " + chance + " chance left");
         }
       }
 
